@@ -1,2 +1,2 @@
-django
-djangorestframework
+django>=1.6.5
+djangorestframework>=2.2.5
